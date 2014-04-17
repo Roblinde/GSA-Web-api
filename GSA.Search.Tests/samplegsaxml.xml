@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GSP VER="3.2">
+  <TM>0.111599</TM>
+  <Q>försäkring</Q>
+  <PARAM name="q" value="försäkring" original_value="f%C3%B6rs%C3%A4kring"/>
+  <PARAM name="site" value="gamla_och_nya" original_value="gamla_och_nya"/>
+  <PARAM name="lr" value="" original_value=""/>
+  <PARAM name="ie" value="UTF-8" original_value="UTF-8"/>
+  <PARAM name="oe" value="UTF-8" original_value="UTF-8"/>
+  <PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd"/>
+  <PARAM name="client" value="Klara2013" original_value="Klara2013"/>
+  <PARAM name="access" value="p" original_value="p"/>
+  <PARAM name="sort" value="date:D:L:d1" original_value="date:D:L:d1"/>
+  <PARAM name="sa" value="N" original_value="N"/>
+  <PARAM name="ulang" value="sv" original_value="sv"/>
+  <PARAM name="ip" value="192.168.246.106" original_value="192.168.246.106"/>
+  <PARAM name="entqr" value="3" original_value="3"/>
+  <PARAM name="entqrm" value="0" original_value="0"/>
+  <GM>
+    <GL>http://www.sf.se/</GL>
+    <GD>SF anytime</GD>
+  </GM>
+  <Synonyms>
+    <OneSynonym q="semester">semester</OneSynonym>
+    <OneSynonym q="arbetsfri+dag">arbetsfri dag</OneSynonym>
+    <OneSynonym q="personalhandbok">personalhandbok</OneSynonym>
+  </Synonyms>
+  <Spelling>
+    <Suggestion q="light" qe="light"/>
+  </Spelling>
+  <RES SN="1" EN="10">
+    <M>3480</M>
+    <FI/>
+    <NB>
+      <NU>/search?q=f%C3%B6rs%C3%A4kring&amp;site=gamla_och_nya&amp;lr=&amp;ie=UTF-8&amp;oe=UTF-8&amp;output=xml_no_dtd&amp;client=Klara2013&amp;access=p&amp;sort=date:D:L:d1&amp;start=10&amp;sa=N</NU>
+    </NB>
+
+    <R N="1">
+      <U>http://klara/Organisation-och-styrning/Organisation/Omraden-avdelningar/Omrade-Forsakring/Dokument-och-protokoll-Omrade-Forsakring/Styrelserapport-fran-Omrade-Forsakring/</U>
+      <UE>http://klara/Organisation-och-styrning/Organisation/Omraden-avdelningar/Omrade-Forsakring/Dokument-och-protokoll-Omrade-Forsakring/Styrelserapport-fran-Omrade-Forsakring/</UE>
+      <T>Styrelserapport från Område &lt;b&gt;Försäkring&lt;/b&gt;</T>
+      <RK>10</RK>
+      <CRAWLDATE>27 mar 2014</CRAWLDATE>
+      <ENT_SOURCE>T3-KW9UKFFCD8WXP</ENT_SOURCE>
+      <FS NAME="date" VALUE="2013-02-26"/>
+      <S>&lt;b&gt;...&lt;/b&gt; Styrelserapport från Område &lt;b&gt;Försäkring&lt;/b&gt;. Mer... &lt;b&gt;...&lt;/b&gt; Styrelserapport från Område&lt;br&gt; &lt;b&gt;Försäkring&lt;/b&gt;. Här samlas styrelserapporter från Område &lt;b&gt;Försäkring&lt;/b&gt;. &lt;b&gt;...&lt;/b&gt;  </S>
+      <LANG>sv</LANG>
+      <HAS>
+        <L/>
+        <C SZ="168k" CID="gEjH56JWWaIJ" ENC="UTF-8"/>
+      </HAS>
+    </R>
+    <R N="2" L="2">
+      <U>http://klara/Organisation-och-styrning/Organisation/Omraden-avdelningar/Omrade-Forsakring/Dokument-och-protokoll-Omrade-Forsakring/Forum-Forsakring--Omprovningsavdelning/</U>
+      <UE>http://klara/Organisation-och-styrning/Organisation/Omraden-avdelningar/Omrade-Forsakring/Dokument-och-protokoll-Omrade-Forsakring/Forum-Forsakring--Omprovningsavdelning/</UE>
+      <T>Forum &lt;b&gt;Försäkring&lt;/b&gt; &amp;amp; Omprövningsavdelning</T>
+      <RK>10</RK>
+      <ENT_SOURCE>T3-KW9UKFFCD8WXP</ENT_SOURCE>
+      <FS NAME="date" VALUE="2013-02-26"/>
+      <S>&lt;b&gt;...&lt;/b&gt; sidan Skriv ut. Forum &lt;b&gt;Försäkring&lt;/b&gt; &amp;amp; Omprövningsavdelning. Protokoll&lt;br&gt; från Forum för &lt;b&gt;Försäkring&lt;/b&gt; och Omprövningsavdelngen. &lt;b&gt;...&lt;/b&gt;  </S>
+      <LANG>sv</LANG>
+      <HAS>
+        <L/>
+        <C SZ="163k" CID="VSxyGyDgTOUJ" ENC="UTF-8"/>
+      </HAS>
+      <HN U="klara/Organisation-och-styrning/Organisation/Omraden-avdelningar">klara/Organisation-och-styrning/Organisation/Omraden-avdelningar</HN>
+    </R>
+    <R N="3">
+      <U>http://klara.domain.se/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden/</U>
+      <UE>http://klara.domain.se/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden/</UE>
+      <T>AFA &lt;b&gt;Försäkring&lt;/b&gt; i omvärlden</T>
+      <RK>10</RK>
+      <CRAWLDATE>26 mar 2014</CRAWLDATE>
+      <ENT_SOURCE>T3-KW9UKFFCD8WXP</ENT_SOURCE>
+      <FS NAME="date" VALUE="2013-02-28"/>
+      <S>&lt;b&gt;...&lt;/b&gt; alla. Varumärke och omvärld; AFA &lt;b&gt;Försäkring&lt;/b&gt; i omvärlden. Mer... Bevaka denna &lt;b&gt;...&lt;/b&gt;&lt;br&gt; AFA &lt;b&gt;Försäkring&lt;/b&gt; i omvärlden. AFA &lt;b&gt;Försäkring&lt;/b&gt; bevakar &lt;b&gt;...&lt;/b&gt;  </S>
+      <LANG>sv</LANG>
+      <HAS>
+        <L/>
+        <C SZ="172k" CID="T3UxICnQALYJ" ENC="UTF-8"/>
+      </HAS>
+    </R>
+    <R N="4" L="2">
+      <U>http://klara.domain.se/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden/Nyheter---omvarldsbevakning/AFA-Forsakring-och-omvarlden2/</U>
+      <UE>http://klara.domain.se/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden/Nyheter---omvarldsbevakning/AFA-Forsakring-och-omvarlden2/</UE>
+      <T>AFA &lt;b&gt;Försäkring&lt;/b&gt; och omvärlden</T>
+      <RK>10</RK>
+      <CRAWLDATE>26 mar 2014</CRAWLDATE>
+      <ENT_SOURCE>T3-KW9UKFFCD8WXP</ENT_SOURCE>
+      <FS NAME="date" VALUE="2014-03-26"/>
+      <S>&lt;b&gt;...&lt;/b&gt; alla. Varumärke och omvärld; AFA &lt;b&gt;Försäkring&lt;/b&gt; i omvärlden; Nyheter -&lt;br&gt; omvärldsbevakning; &lt;b&gt;...&lt;/b&gt; ut. AFA &lt;b&gt;Försäkring&lt;/b&gt; och omvärlden. &lt;b&gt;...&lt;/b&gt;  </S>
+      <LANG>sv</LANG>
+      <HAS>
+        <L/>
+        <C SZ="165k" CID="19CQU9O9dzYJ" ENC="UTF-8"/>
+      </HAS>
+      <HN U="klara.domain.se/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden">klara.domain.se/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden</HN>
+    </R>
+    <R N="5">
+      <U>http://klara/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden/Nyheter---omvarldsbevakning/Nyhetsbrev-AFA-Forsakring-och-omvarlden/</U>
+      <UE>http://klara/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden/Nyheter---omvarldsbevakning/Nyhetsbrev-AFA-Forsakring-och-omvarlden/</UE>
+      <T>Nyhetsbrev AFA &lt;b&gt;Försäkring&lt;/b&gt; och omvärlden</T>
+      <RK>10</RK>
+      <ENT_SOURCE>T3-KW9UKFFCD8WXP</ENT_SOURCE>
+      <FS NAME="date" VALUE="2013-03-26"/>
+      <S>&lt;b&gt;...&lt;/b&gt; Nyhetsbrev AFA &lt;b&gt;Försäkring&lt;/b&gt; och omvärlden. &lt;b&gt;...&lt;/b&gt; AFA &lt;b&gt;Försäkring&lt;/b&gt; bidrar till&lt;br&gt; Hjärt-Lungfondens initiativ till att hjärtsäkra Sverige. &lt;b&gt;...&lt;/b&gt;  </S>
+      <LANG>sv</LANG>
+      <HAS>
+        <L/>
+        <C SZ="165k" CID="uahffOvAF3gJ" ENC="UTF-8"/>
+      </HAS>
+    </R>
+    <R N="6" L="2">
+      <U>http://klara/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden/Nyheter---omvarldsbevakning/Digitaliseringen-gar-i-allt-snabbare-takt/</U>
+      <UE>http://klara/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden/Nyheter---omvarldsbevakning/Digitaliseringen-gar-i-allt-snabbare-takt/</UE>
+      <T>Digitaliseringen går i allt snabbare takt</T>
+      <RK>10</RK>
+      <ENT_SOURCE>T3-KW9UKFFCD8WXP</ENT_SOURCE>
+      <FS NAME="date" VALUE="2013-03-26"/>
+      <S>Varumärke och omvärld; AFA &lt;b&gt;Försäkring&lt;/b&gt; i omvärlden; Nyheter - &lt;br&gt; omvärldsbevakning; Digitaliseringen går i allt snabbare takt. Mer... &lt;b&gt;...&lt;/b&gt;  </S>
+      <LANG>sv</LANG>
+      <HAS>
+        <L/>
+        <C SZ="165k" CID="YuHMPTOFpf8J" ENC="UTF-8"/>
+      </HAS>
+      <HN U="klara/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden">klara/Organisation-och-styrning/Varumarke-och-omvarld/AFA-Forsakring-i-omvarlden</HN>
+    </R>
+    <R N="7">
+      <U>http://klara.domain.se/Organisation-och-styrning/Organisation/Omraden-avdelningar/Omrade-Forsakring/</U>
+      <UE>http://klara.domain.se/Organisation-och-styrning/Organisation/Omraden-avdelningar/Omrade-Forsakring/</UE>
+      <T>Område &lt;b&gt;Försäkring&lt;/b&gt;</T>
+      <RK>10</RK>
+      <ENT_SOURCE>T3-KW9UKFFCD8WXP</ENT_SOURCE>
+      <FS NAME="date" VALUE="2014-03-04"/>
+      <S>&lt;b&gt;...&lt;/b&gt; Bevaka denna sida Lägg till som favorit Dela den här sidan Skriv ut.&lt;br&gt; Område &lt;b&gt;Försäkring&lt;/b&gt;. &lt;b&gt;...&lt;/b&gt; Nyheter för område &lt;b&gt;Försäkring&lt;/b&gt;. &lt;b&gt;...&lt;/b&gt;  </S>
+      <LANG>sv</LANG>
+      <HAS>
+        <L/>
+        <C SZ="173k" CID="q-X9obBCCpIJ" ENC="UTF-8"/>
+      </HAS>
+    </R>
+    <R N="8">
+      <U>http://klara.domain.se/Mitt-arbete/Support-och-service/Forbattringsforslag-Forsakring/</U>
+      <UE>http://klara.domain.se/Mitt-arbete/Support-och-service/Forbattringsforslag-Forsakring/</UE>
+      <T>Förbättringsförslag &lt;b&gt;Försäkring&lt;/b&gt;</T>
+      <RK>10</RK>
+      <ENT_SOURCE>T3-KW9UKFFCD8WXP</ENT_SOURCE>
+      <FS NAME="date" VALUE="2013-02-11"/>
+      <S>&lt;b&gt;...&lt;/b&gt; Förbättringsförslag &lt;b&gt;Försäkring&lt;/b&gt;. &lt;b&gt;...&lt;/b&gt; Avdelning Process och Stöd inom område&lt;br&gt; &lt;b&gt;Försäkring&lt;/b&gt; tar emot ditt förslag och ger återkoppling. &lt;b&gt;...&lt;/b&gt;  </S>
+      <LANG>sv</LANG>
+      <HAS>
+        <L/>
+        <C SZ="163k" CID="JAe_Slq_yrQJ" ENC="UTF-8"/>
+      </HAS>
+    </R>
+    <R N="9">
+      <U>http://klara/Mitt-arbete/Handbocker_brev/TFA-Brev/Brev-07XX-Avslag-forsakring-/</U>
+      <UE>http://klara/Mitt-arbete/Handbocker_brev/TFA-Brev/Brev-07XX-Avslag-forsakring-/</UE>
+      <T>Brev 07XX Avslag &lt;b&gt;försäkring&lt;/b&gt;</T>
+      <RK>10</RK>
+      <ENT_SOURCE>T3-KW9UKFFCD8WXP</ENT_SOURCE>
+      <FS NAME="date" VALUE="2013-03-08"/>
+      <S>&lt;b&gt;...&lt;/b&gt; alla. Handböcker &amp;amp; brev; TFA Brev; Brev 07XX Avslag &lt;b&gt;försäkring&lt;/b&gt;. Mer...&lt;br&gt; Bevaka denna &lt;b&gt;...&lt;/b&gt; ut. Brev 07XX Avslag &lt;b&gt;försäkring&lt;/b&gt;. BREV 0701 &lt;b&gt;...&lt;/b&gt;  </S>
+      <LANG>sv</LANG>
+      <HAS>
+        <L/>
+        <C SZ="164k" CID="EhCawin6T4QJ" ENC="UTF-8"/>
+      </HAS>
+    </R>
+    <R N="10" L="2">
+      <U>http://klara/Mitt-arbete/Handbocker_brev/TFA-Brev/Brev-07XX-Avslag-forsakring-/BREV-0701-Avslag---ingen-forsakring/</U>
+      <UE>http://klara/Mitt-arbete/Handbocker_brev/TFA-Brev/Brev-07XX-Avslag-forsakring-/BREV-0701-Avslag---ingen-forsakring/</UE>
+      <T>BREV 0701 (Avslag - ingen &lt;b&gt;försäkring&lt;/b&gt;)</T>
+      <RK>10</RK>
+      <ENT_SOURCE>T3-KW9UKFFCD8WXP</ENT_SOURCE>
+      <FS NAME="date" VALUE="2013-03-08"/>
+      <S>&lt;b&gt;...&lt;/b&gt; BREV 0701 (Avslag - ingen &lt;b&gt;försäkring&lt;/b&gt;). TFA. &lt;b&gt;...&lt;/b&gt; Med vänlig hälsning AFA&lt;br&gt; Trygghetsförsäkring Område &lt;b&gt;Försäkring&lt;/b&gt;. [$GEM001$]. &lt;b&gt;...&lt;/b&gt;  </S>
+      <LANG>sv</LANG>
+      <HAS>
+        <L/>
+        <C SZ="162k" CID="AI_0R7diVnMJ" ENC="UTF-8"/>
+      </HAS>
+      <HN U="klara/Mitt-arbete/Handbocker_brev/TFA-Brev">klara/Mitt-arbete/Handbocker_brev/TFA-Brev</HN>
+    </R>
+    <PARM>
+      <PC>0</PC>
+      <PMT NM="GoogleDN_Work" DN="Mitt arbete" IR="0" T="0">
+        <PV V="Mitt Arbete" L="" H="" C="628"/>
+      </PMT>
+      <PMT NM="GoogleDN_Employment" DN="Min anställning" IR="0" T="0">
+        <PV V="Min anställning" L="" H="" C="150"/>
+      </PMT>
+      <PMT NM="GoogleDN_Organization" DN="Organsiation &amp; styrning" IR="0" T="0">
+        <PV V="Organisation &amp; Styrning" L="" H="" C="216"/>
+      </PMT>
+      <PMT NM="GoogleDN_Document" DN="Dokument" IR="0" T="0">
+        <PV V=".doc" L="" H="" C="406"/>
+        <PV V=".pdf" L="" H="" C="385"/>
+        <PV V=".docx" L="" H="" C="97"/>
+        <PV V=".dotx" L="" H="" C="43"/>
+        <PV V=".dotm" L="" H="" C="9"/>
+        <PV V=".pptx" L="" H="" C="6"/>
+        <PV V=".dot" L="" H="" C="4"/>
+        <PV V=".htm" L="" H="" C="2"/>
+        <PV V=".ppt" L="" H="" C="2"/>
+        <PV V=".vst" L="" H="" C="2"/>
+        <PV V=".xltx" L="" H="" C="2"/>
+        <PV V=".xml" L="" H="" C="2"/>
+        <PV V=".xls" L="" H="" C="1"/>
+        <PV V=".xlsx" L="" H="" C="1"/>
+      </PMT>
+      <PMT NM="GoogleDN_FeelGood" DN="Må bra" IR="0" T="0">
+        <PV V="Må bra" L="" H="" C="14"/>
+      </PMT>
+      <PMT NM="GoogleDN_GamlaKlara" DN="Gamla Klara" IR="0" T="0">
+        <PV V="TGL Skadehandbok" L="" H="" C="100"/>
+        <PV V="TFA Skadehandbok" L="" H="" C="44"/>
+        <PV V="PAV Rutinhandbok" L="" H="" C="39"/>
+        <PV V="AGS Skadehandbok" L="" H="" C="32"/>
+        <PV V="Försäkringsutredning Handbok" L="" H="" C="32"/>
+        <PV V="AGB Skadehandbok" L="" H="" C="30"/>
+        <PV V="TFA Rutinhandbok" L="" H="" C="23"/>
+        <PV V="PAV Skadehandbok" L="" H="" C="18"/>
+        <PV V="AGS Rutinhandbok" L="" H="" C="15"/>
+        <PV V="AGB Rutinhandbok" L="" H="" C="14"/>
+        <PV V="TGL Rutinhandbok" L="" H="" C="14"/>
+        <PV V="AGB Systemhandbok" L="" H="" C="11"/>
+        <PV V="Familjeskydd Skadehandbok" L="" H="" C="9"/>
+        <PV V="Familjeskydd Rutinhandbok " L="" H="" C="7"/>
+        <PV V="TGL Systemhandbok" L="" H="" C="5"/>
+        <PV V="AFA Försäkrings rehabiliteringsuppdrag" L="" H="" C="3"/>
+        <PV V="Familjeskydd Systemhandbok" L="" H="" C="1"/>
+      </PMT>
+    </PARM>
+  </RES>
+</GSP>

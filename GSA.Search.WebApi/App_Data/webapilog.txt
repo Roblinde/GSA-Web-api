@@ -1,0 +1,27 @@
+2014-04-15 11:31:19,121 [11] INFO  WebApiUsage [(null)] - WebApiRequest:
+ http://localhost:61260/api/users/roli01
+ GET
+ 	Cache-Control : max-age=0 
+	Connection : keep-alive 
+	Accept : text/html application/xhtml+xml application/xml; q=0.9 image/webp */*; q=0.8 
+	Accept-Encoding : gzip deflate sdch 
+	Accept-Language : sv en-US; q=0.8 en; q=0.6 nb; q=0.4 
+	Cookie : EPiDPCKEY=path=/Global/; editlanguagebranch=sv; KeepLoggedOnUser=True; ASP.NET_SessionId=dkz0gquvcn3anjqhohhc4oc5; cc=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; EPi:NumberOfVisits=282,2014-04-15T04:14:10,2014-04-15T04:44:12,2014-04-15T05:14:13,2014-04-15T05:44:14,2014-04-15T06:14:15,2014-04-15T06:44:17,2014-04-15T07:14:18,2014-04-15T07:44:19,2014-04-15T08:44:22,2014-04-15T09:14:23 
+	Host : localhost:61260 
+	User-Agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36 
+ Originated from IP: ::1
+ UsageType: HttpRequestMessage
+2014-04-15 11:31:20,693 [14] INFO  WebApiUsage [(null)] - WebApiResponse:
+ 200
+  UsageType: HttpResponseMessage
+2014-04-15 14:10:50,386 [8] INFO  WebApiUsage [(null)] - WebApiRequest:
+ http://localhost:61260/api/mail?recipient=robert.linde@afaforsakring.se&sender=magnus.andersson@afaforsakring.se&subject=trying some cool stuff&body=There should be a file in this message
+ POST
+ 	Connection : Keep-Alive 
+	Expect : 100-continue 
+	Host : localhost:61260 
+ Originated from IP: ::1
+ UsageType: HttpRequestMessage
+2014-04-15 14:10:50,684 [6] INFO  WebApiUsage [(null)] - WebApiResponse:
+ 200
+  UsageType: HttpResponseMessage
